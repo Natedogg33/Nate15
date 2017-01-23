@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html <meta charset=utf-8" /><title>Home</title>
+</head>
+<div align=center />
+<body> 
+		<img src="code.jpg" />
+		<h1>About Me</h1> 
+    <p> I am a student at Edison high. I am a Freshman here taking the computer science course as my pathway.<br>
+    
+	<a href="index.html">Index Page</a>
+</body>
+</html>
